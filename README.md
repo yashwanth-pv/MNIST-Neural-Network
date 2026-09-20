@@ -19,8 +19,8 @@ Dropout layers were added to the baseline model to study their effect on general
 
 ## Results
 
-Test accuracy: 97%
-Test loss: 92%
+ Test accuracy: 97%
+ Test loss: 92%
 
 ## Technologies
 
