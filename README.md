@@ -1,10 +1,10 @@
 # MNIST Handwritten Digit Classification
 
-A TensorFlow/Keras neural network for classifying handwritten digits from 0 to 9.
+A TensorFlow neural network for classifying handwritten digits from 0 to 9.
 
 ## Dataset
 
-MNIST handwritten digit dataset.
+MNIST dataset.
 
 ## Model
 
@@ -19,14 +19,8 @@ Dropout layers were added to the baseline model to study their effect on general
 
 ## Results
 
-Test accuracy: XX%
-
-## Files
-
-- MNIST_Neural_Network.ipynb
-- MNIST_Report.pdf
-- test_images/
-- images/
+Test accuracy: 97%
+Test loss: 92%
 
 ## Technologies
 
@@ -36,3 +30,9 @@ Test accuracy: XX%
 - NumPy
 - Matplotlib
 - Jupyter Notebook
+
+## Files
+- Dataset
+- code
+- report
+- readme
